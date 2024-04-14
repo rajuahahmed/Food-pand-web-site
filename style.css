@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-area{
+    background: #fff;
+    border-bottom: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    height: 85px;
+    margin-bottom: 90px;
+}
+.aa{
+    display: flex;
+
+}
+.logo-area img{
+    margin-left: 50px;
+    width: 300px;
+}
+.main-style ul{
+    display: flex;
+    list-style: none;
+    margin-top: 25px;
+}
+.main-style ul li{
+    margin-right: 45px;
+    font-size: 18px;
+    font-family: tahoma;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:rgb(228, 112, 112);
+}
+.middle-area{
+    width: 90%;
+    margin: auto;
+}
+.contect-area{
+    display: flex;
+    justify-content: space-between;
+}
+.tt{
+    margin-top: 50px;
+}
+span{
+    color:rgb(236, 85, 85);
+}
+.contect-area h1{
+    font-size:58px;
+    color:rgba(0, 0, 0, 0.644);
+    line-height: 60px;
+}
+.contect-area p{
+    font-family: tahoma;
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 50px;
+    width: 93%;
+}
+.contect-area button{
+    border-radius: 30px;
+    margin-top: 30px;
+    width:150px;
+    height: 50px;
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+    background: linear-gradient(to left,rgb(241, 28, 28),rgb(240, 207, 199));
+}
+.contect-area .ii{
+    width:472px;
+    margin-top:-18%;
+}
+.contect{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(250,247,235);
+}
+.contect img{
+    width: 290px;
+    margin-top: 80px;
+}
+.contect h1{
+    font-size:58px;
+    color:rgba(0, 0, 0, 0.644);
+}
+.contect p{
+    font-family: tahoma;
+    color: rgba(0, 0, 0, 0.644);
+}
+.contect button{
+    border-radius: 30px;
+    margin-top: 30px;
+    width:150px;
+    height: 50px;
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+    background: linear-gradient(to left,rgb(241, 28, 28),rgb(240, 207, 199));
+}
+#yy{
+    width: 490px;
+    margin-top: 146px;
+    padding: 20px;
+}
+.area{
+    text-align: center;
+}
+.area h2{
+    font-size: 52px;
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 35px;
+}
+.area p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 20px;
+}
+.inner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.inner img{
+    width: 280px;
+}
+.inner h2{
+margin-top: 20px;
+font-family: tahoma;
+}
+.inner p{
+margin-top: 20px;
+color: rgba(0, 0, 0, 0.644);
+font-size: 20px;
+  width: 240px;
+}
+.taka{
+    display: flex;
+    margin-left: 226px;
+    margin-top: 150px;
+}
+.taka h1{
+    width: 228px;
+    font-family: tahoma;
+}
+.taka p{
+    margin-top: 30px;
+    color: rgba(0, 0, 0, 0.644);
+    font-family: tahoma;
+}
+.head{
+text-align: center;
+}
+.head h1{
+    font-size: 52px;
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 118px;
+}
+.head p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 20px;
+}
+.kham{
+    display: flex;
+    justify-content: space-between;
+}
+#oo{
+    display: flex;
+    width:50% ;
+    height: 420px;
+    margin-top: 61px;
+    background-color: peachpuff;
+    padding: 8px;
+}
+#rr{
+    width: 200px;
+    height: 135px;
+    background-color: white;
+}
+#rr .ll{
+    margin-left: 132px;
+    color:rgb(72, 89, 241);
+}
+#rr h1{
+    font-size: 18px;
+  font-family: tahoma;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+#rr span{
+    color: gray;
+}
+#rr p{
+    color:rgb(79, 171, 247);
+    margin-top: 5px;
+}
+.kham form{
+    width: 50%;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-right: 79px;
+}
+.kham form input{
+    display: block;
+    font-size: 29px;
+    width:463px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid gray
+}
+form .yy{
+    height: 150px;
+}
+form button{
+    border-radius: 30px;
+    margin-top: 30px;
+    width:150px;
+    height: 50px;
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+    background: linear-gradient(to left,rgb(241, 28, 28),rgb(240, 207, 199));
+}
+footer{
+    background-color: rgb(14, 14, 43);
+    height: 230px;
+    margin-top: 120px;
+    text-align: center;
+}
+footer h3{
+    color:gray;
+    font-size: 33px;
+}
+footer span{
+    color:rgb(245, 110, 100);
+}
+footer p{
+    font-size: 20px;
+    font-family: tahoma;
+    color: white;
+    margin-top: 82px;
+}
